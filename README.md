@@ -34,8 +34,8 @@ Obrigado por acompanhar nosso projeto, siga nas redes sociais.
 
 <https://www.instagram.com/manoloadsc/>
 
-https://www.instagram.com/arthur.g.sil
+<https://www.instagram.com/arthur.g.sil/>
 
-https://www.instagram.com/mateus_cris.tiano
+<https://www.instagram.com/mateus_cris.tiano/>
 
-https://www.instagram.com/maicondametto
+<https://www.instagram.com/maicondametto/>
