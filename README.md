@@ -30,6 +30,8 @@ Para otimizar a gestão de projetos, comece implementando o Gerencial em sua emp
 
 Obrigado por acompanhar nosso projeto, siga nas redes sociais.
 
+<a href="https://www.instagram.com/manoloadsc/" target="_blank">Emanuel</a>
+
 <https://www.instagram.com/manoloadsc/>
 
 <https://www.instagram.com/arthur.g.sil/>
