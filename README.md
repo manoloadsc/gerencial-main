@@ -29,3 +29,13 @@ Para acompanhar o progresso de seus projetos, utilize painéis intuitivos que of
 ![img8](./src/assets/readme/img8.jpg)
 
 Para otimizar a gestão de projetos, comece implementando o Gerencial em sua empresa para organizar projetos de maneira mais eficiente. Em seguida, ofereça treinamento à sua equipe para garantir que todos possam utilizar as funcionalidades do software ao máximo. Por fim, analise dados e feedbacks regularmente para aprimorar continuamente seus processos e fluxos de trabalho.
+
+Obrigado por acompanhar nosso projeto, siga nas redes sociais.
+
+<https://www.instagram.com/manoloadsc/>
+
+https://www.instagram.com/arthur.g.sil
+
+https://www.instagram.com/mateus_cris.tiano
+
+https://www.instagram.com/maicondametto
